@@ -3,6 +3,12 @@
   scroll-margin-top: 15rem;
 }
 
+.projects img {
+  border-radius: 5px;
+  box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.1);
+
+}
+
 .projects .projects__content {
   max-width: 56rem;
   text-align: center;
@@ -36,7 +42,7 @@
 }
 
 
-.projects ul li .projects__info a { 
+.projects ul li .projects__info a {
   font-weight: 500;
 
 }
@@ -51,7 +57,7 @@
 
   .projects ul li .projects__info {
     max-width: 66rem;
-    
+
   }
 
   .projects ul li .image img {
