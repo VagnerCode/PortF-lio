@@ -13,6 +13,14 @@
     justify-content: space-between;
 }
 
+.navbar .navbar__content h1 {
+    font-size: 3rem;
+    color: var(--grey-800);
+    border: 1px solid var(--grey-800);
+    padding: 6px;
+    border-radius: 3px;
+}
+
 .navbar .navbar__content .navbar__links li {
     display: inline-block;
 }
@@ -39,6 +47,10 @@
     display: none;
 }
 
+
+
+/* Reponsividade */
+
 @media only screen and (max-width: 768px) {
     .navbar .navbar__content .navbar__links {
         display: none;
@@ -55,17 +67,19 @@
         cursor: pointer;
     }
 
+
     .navbar .navbar__content .navbar__mobile.active .mobile__links {
         display: flex;
         flex-direction: column;
         background-color: var(--white);
-        width: 100%;    
+        width: 100%;
         position: absolute;
         top: 98%;
         left: 0;
         padding: 1rem 0;
         box-shadow: 0 0.4rem 0.5rem rgba(0, 0, 0, 0.1);
         z-index: 1;
+
     }
 
     .navbar .navbar__content .navbar__mobile.active .mobile__links li {

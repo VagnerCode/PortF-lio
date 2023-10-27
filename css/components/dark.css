@@ -1,0 +1,144 @@
+/* html {
+    background-color: var(--grey-400);
+}
+
+header h1 {
+    color: var(--blue-100);
+}
+
+header p {
+    color: var(--grey-100);
+}
+
+header .header__right .header__image {
+    border-radius: 0.5rem;
+    box-shadow: 5px 5px 10px var(--grey-900);
+    background-color: var(--grey-700);
+}
+
+
+
+
+.navbar {
+    color: var(--grey-100);
+    background-color: var(--grey-700);
+}
+
+.navbar .navbar__content h1 {
+    color: var(--black);
+    border: 1px solid var(--black);
+}
+
+
+
+.navbar.active {
+    box-shadow: 0 0.2rem 0.5rem var(--grey-900);
+}
+
+.navbar .navbar__content .navbar__mobile.active .mobile__links{
+    background-color: var(--grey-600);
+    color: var(--blue-100);
+}
+
+
+
+
+
+.about h2 {
+    color: var(--blue-100);
+}
+
+.about p {
+    color: var(--grey-100);
+}
+
+.about__right h3 {
+
+    color: var(--blue-100);
+}
+
+.btn.btn-primary {
+    background-color: var(--blue-800);
+    color: var(--blue-100);
+    box-shadow: 5px 5px 10px var(--blue-800);
+}
+
+.about .about__left ul li a {
+    color: var(--grey-400);
+    background-color: var(--blue-100);
+    border-radius: 3px;
+    box-shadow: 5px 5px 10px var(--blue-700);
+}
+
+
+
+.skills {
+    background-color: var(--grey-300);
+
+}
+
+.skills h2 {
+    color: var(--blue-100);
+}
+
+.skills p {
+    color: var(--grey-100);
+}
+
+.skills h3 {
+    color: var(--blue-100);
+}
+
+.skills .skills__content ul li .image-container {
+    background-color: var(--blue-800);
+    box-shadow: 00 0.4rem 1rem var(--blue-700);
+}
+
+
+
+.projects h2 {
+    color: var(--blue-100);
+}
+
+.projects h3 {
+    color: var(--blue-100);
+}
+
+.projects__content p {
+    color: var(--grey-100);
+}
+
+#projects img {
+    border-radius: 5px;
+    box-shadow: 00 0.4rem 1rem var(--blue-700);
+}
+
+
+
+footer {
+    background-color: var(--grey-700);
+}
+
+footer .footer__content h2 {
+    color: var(--blue-100);
+}
+
+
+footer p {
+    color: var(--grey-100);
+}
+
+footer ul li a {
+    color: var(--grey-400);
+    background-color: var(--blue-100);
+    border-radius: 3px;
+    box-shadow: 5px 5px 10px var(--blue-700);
+}
+
+footer img {
+    width: 30px;
+}
+
+footer .footer__content .footer__contact span {
+    color: var(--grey-100);
+} */

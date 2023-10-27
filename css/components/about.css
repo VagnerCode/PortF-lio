@@ -1,8 +1,11 @@
+
+
 .about {
     display: flex;
     justify-content: space-between;
     gap: 4rem;
     scroll-margin-top: 20rem;
+
 }
 
 .about .about__left {
@@ -41,6 +44,8 @@
     width: 70px;
     gap: 10px;
 }
+
+
 
 @media only screen and (max-width: 768px) {
     .about {
